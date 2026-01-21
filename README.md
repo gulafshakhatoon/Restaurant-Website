@@ -1,20 +1,31 @@
-# Restaurant-Website
-🍽️ A responsive restaurant website built using HTML, CSS, and JavaScript featuring a modern UI, food menu filtering, image slider, chef section, and table booking form.
+## 🍴 Restaurant Website
 
-The website is designed to present restaurant information in a clean and user-friendly manner and allows users to explore dishes, chefs, 
-and menu categories easily. The website includes multiple sections such as Home, About Us, Special Dishes, Chefs, Menu, and Contact. 
-Users can view special dishes through an image slider, browse food items using category filters, and book a table using the contact form.
+This is a fully responsive Restaurant Website created using HTML, CSS, and JavaScript.
+The project showcases a modern restaurant layout with smooth navigation and interactive features.
 
-## Features
+## ✨ Features
+
 Responsive navigation bar with hamburger menu
-Special dishes image slider
-Menu filtering by food categories
-Chef profile section
-Table booking form with validation
-Opening hours and contact information
-Clean modern, and user-friendly interface
+Auto & manual image slider for special dishes
 
-## Implementation
-The project is implemented using standard web technologies.
-HTML is used to structure the content of the website, CSS for styling and responsiveness, and JavaScript for interactive elements such as menu toggling, image sliders, filtering, and form validation.
-This project is created for learning and demonstration purposes and showcases frontend web development skills.
+About section with restaurant highlights
+
+Chef showcase section
+
+Menu filtering (Pizza, Burger, Pasta, Drinks, etc.)
+
+Table booking form
+
+Fully responsive for mobile, tablet, and desktop
+
+🛠️ Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript
+
+🎯 Purpose
+
+This project is ideal for learning frontend web development and practicing responsive layouts, DOM manipulation, and UI design.
